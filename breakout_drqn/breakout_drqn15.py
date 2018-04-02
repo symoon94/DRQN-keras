@@ -434,7 +434,10 @@ if __name__ == "__main__":
 
             next_history = np.reshape([next_history],( 1, 10, 84, 84, 1 ))
 
-           
+
+            agent.avg_q_max += np.amax(
+                           agent.model.predict(np.float32(history / 255.))[0])
+
 
             if start_life > info['ale.lives']:
 
