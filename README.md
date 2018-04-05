@@ -38,7 +38,7 @@
 [Breakout DRQN Source Code](https://github.com/symoon94/DRQN/blob/master/breakout_drqn/breakout_drqn15.py)
 
 
-------
+#
 
 ##### Code Reference: 'breakout_dqn.py' at https://github.com/rlcode/reinforcement-learning-kr
 
