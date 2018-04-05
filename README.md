@@ -1,9 +1,9 @@
-# DRQN
+# Deep Recurrent Q-Network (DRQN)
 
 ## Atari-Breakout
 
 ### Main Idea?
-#### CRNN Model Using 'TimeDistributed' wrapper for Conv2D and LSTM
+#### CRNN model using 'TimeDistributed' wrapper for Conv2D and LSTM
 
 
 
