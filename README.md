@@ -1,5 +1,5 @@
 # Deep Recurrent Q-Network (DRQN)
-** Keras implementation of DRQN. This code needs to be fixed though it can be trained at the end. Please do not see this repository seriously.
+** Keras implementation of DRQN. This code needs to be fixed though its score would be good at the end. Please do not see this repository seriously.
 
 
 ## Atari-Breakout
